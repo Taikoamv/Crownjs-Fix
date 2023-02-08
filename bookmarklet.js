@@ -1,1 +1,1 @@
-javascript:(function () {let code = document.createElement('script');code.src = 'https://exhaustedaccomplishedconferences.evildragon2019.repl.co/script.js';document.body.appendChild(code);}())
+javascript:(function () {let code = document.createElement('script');code.src = 'https://crownjs-fix-production.up.railway.app/script.js';document.body.appendChild(code);}())
