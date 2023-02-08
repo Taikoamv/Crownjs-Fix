@@ -322,7 +322,7 @@ document.addEventListener("keyup", function (e) {
 });
 
 anime.onclick = () => {
-  javascript:(function(){var url = "https://palladium.evildragon2019.repl.co";if(!url.startsWith("https://") && !url.startsWith("//") && url != ""){url="https://"+url;}document.body.innerHTML = '<div style="font-size:18px;display:flex;justify-content:center;align-items:center;width:100%;height:100%;font-family:Arial">Loading  Proxy</span>...</div><iframe src="' + (url || "https://utopiabeta.tk") + '" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameborder="0">Your browser doesn\'t support iframes :(</iframe>';document.body.style.width="100vw";document.body.style.height="100vh";document.body.style.overflow="hidden";}())
+  javascript:(function(){var url = "https://web-production-9803.up.railway.app/";if(!url.startsWith("https://") && !url.startsWith("//") && url != ""){url="https://"+url;}document.body.innerHTML = '<div style="font-size:18px;display:flex;justify-content:center;align-items:center;width:100%;height:100%;font-family:Arial">Loading  Proxy</span>...</div><iframe src="' + (url || "https://utopiabeta.tk") + '" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameborder="0">Your browser doesn\'t support iframes :(</iframe>';document.body.style.width="100vw";document.body.style.height="100vh";document.body.style.overflow="hidden";}())
 
 }
 
